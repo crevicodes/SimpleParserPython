@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------------------------------
+Test Program "1.txt":
+Successful test program! All statements are syntactically correct.
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+Test Program "2.txt":
+Line 1 Error : Expected token type <IDENTIFIER> or <NUMERIC-LITERAL> at position 8, got <END-OF-LINE>
+Line 2 Error : Missing <IDENTIFIER> or <NUMERIC-LITERAL> at position 5
+Line 3 Error : Expected token type <IDENTIFIER> at position 1, got <NUMERIC-LITERAL>
+Line 4 Error : Missing <IDENTIFIER> or <NUMERIC-LITERAL> at position 5
+---------------------------------------------------------------------------------------------------------

@@ -1,0 +1,4 @@
+Angelo wrote all the code from scratch, file input and output, both lexical and syntax analysis, error detection and handling, and comments.
+Raaed helped with the file input and output, then tokenizing for the lexer and applying the grammar rules to the parser.
+Rhea helped with error detection and handling. Created many test cases to try and optimize error detection and handling. Helped with syntax analysis.
+Ezekiel helped with optimizing the lexical and syntax analysis methods, and handling errors. He also did an analysis of the guidelines to make sure we covered everything.
